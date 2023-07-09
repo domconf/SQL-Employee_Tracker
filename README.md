@@ -1,5 +1,5 @@
 # SQL-Employee_Tracker
-![License Badge](https://img.shields.io/badge/license-MIT-brightgreen)
+![License Badge](https://img.shields.io/badge/license-MIT-red)
 
 ## User Story
 AS A business owner
